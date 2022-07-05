@@ -23,5 +23,5 @@ No menu teremos três opções:
 
 #### Inspeção manual
 
-Sempre é uma boa ideia inspecionar o script de instalação que você ainda não conhece, podendo ser feito o download e a verificação com calma etê entender o real proposito dele, ai então rodá-lo:
+Sempre é uma boa ideia inspecionar o script de instalação que você ainda não conhece, podendo ser feito o download e a verificação com calma etê entender o real proposito dele, ai então rodá-lo:</br>
 `bash instalacao_servidor_web.sh`
