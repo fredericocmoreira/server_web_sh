@@ -21,7 +21,21 @@ No menu teremos três opções:
 - “Remover” – Fundamenta para caso tenha alguma aplicação já instalada, está ira remover tudo relacionado ao servidor web para poder fazer uma nova instalação totalmente limpa.
 
 
-#### Inspeção manual
+### Inspeção manual
 
 Sempre é uma boa ideia inspecionar o script de instalação que você ainda não conhece, podendo ser feito o download e a verificação com calma etê entender o real proposito dele, ai então rodá-lo:</br>
 `bash instalacao_servidor_web.sh`
+
+### Variáveis de ambiente
+
+##### Distribuição Linux
+``METODO_LX`` - Gerenciamento de pacotes. apt-get; yum; dnf; pkg…
+``SUDO`` - Privilégios root. 
+``SENHA_ROOT`` - Esta será a senha configurada no “mysql secure”.
+
+##### Versões
+``APACHE_V`` - Nome do pacote que será instalado e verificado “which”.
+``MYSQL_NOME`` - Nome do pacote que será verificado “which”. 
+``MYSQL_VS`` - Nome do pacote “-server” que será instalado.
+``MYSQL_VC`` - Nome do pacote “-client” que será instalado.
+``PHP_V`` - Nome do pacote que será instalado e verificado “which”.
