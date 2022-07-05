@@ -8,11 +8,11 @@ Além da descrição, aqui estão algumas coisas que este script faz:
 - Instalação segura MariaDB (mysql).
 
 
-### Atenção
+## Atenção
 - Não nos responsabilizamos por qualquer perda que você possa sofrer, não recomendamos a instalação em ambientes de produção.
 
 
-### Instalação completa
+## Instalação completa
 
 Este script e executado normalmente, onde o mesmo utiliza o “Dialog” para torna as coisas mais intuitivas. 
 No menu teremos três opções: 
@@ -21,12 +21,12 @@ No menu teremos três opções:
 - “Remover” – Fundamenta para caso tenha alguma aplicação já instalada, está ira remover tudo relacionado ao servidor web para poder fazer uma nova instalação totalmente limpa.
 
 
-### Inspeção manual
+## Inspeção manual
 
 Sempre é uma boa ideia inspecionar o script de instalação que você ainda não conhece, podendo ser feito o download e a verificação com calma etê entender o real proposito dele, ai então rodá-lo:</br>
 `bash instalacao_servidor_web.sh`
 
-### Variáveis de ambiente
+## Variáveis de ambiente
 
 #### Distribuição Linux
 - ``METODO_LX`` Gerenciamento de pacotes. apt-get; yum; dnf; pkg…
