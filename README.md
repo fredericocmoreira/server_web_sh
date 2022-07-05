@@ -4,7 +4,7 @@ Shell Script totalmente automatizado para verificação, instalar e remoção de
 Além da descrição, aqui estão algumas coisas que este script faz:
 - Atualiza todas as dependências necessárias do sistema.
 - Instalação Apache2.
-- Instalação Php7.4) e extensões populares.
+- Instalação Php7.4 e extensões populares.
 - Instalação segura MariaDB (mysql).
 
 
