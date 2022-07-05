@@ -1,4 +1,4 @@
-# server_web_sh
+# Servidor Web Linux
 Shell Script totalmente automatizado para verificação, instalar e remoção de todo o software necessário para executar qualquer estrutura web no Linux. Instalação do apache, MariaDB/MySQL e php, fazendo a configuração do “mysql_secure_installation”.
 
 Além da descrição, aqui estão algumas coisas que este script faz:
