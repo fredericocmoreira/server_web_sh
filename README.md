@@ -28,12 +28,12 @@ Sempre é uma boa ideia inspecionar o script de instalação que você ainda nã
 
 ## Variáveis de ambiente
 
-#### Distribuição Linux
+### Distribuição Linux
 - ``METODO_LX`` Gerenciamento de pacotes. apt-get; yum; dnf; pkg…
 - ``SUDO`` Privilégios root. 
 - ``SENHA_ROOT`` Esta será a senha configurada no “mysql secure”.
 
-#### Versões
+### Versões
 - ``APACHE_V`` Nome do pacote que será instalado e verificado “which”.
 - ``MYSQL_NOME`` Nome do pacote que será verificado “which”. 
 - ``MYSQL_VS`` Nome do pacote “-server” que será instalado.
