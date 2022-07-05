@@ -16,8 +16,8 @@ Além da descrição, aqui estão algumas coisas que este script faz:
 
 Este script e executado normalmente, onde o mesmo utiliza o “Dialog” para torna as coisas mais intuitivas. 
 No menu teremos três opções: 
-	- “Check” – onde ele verificara se os software necessários estão instalados, retornando com o valor false(OFF) e true(ON).
-	- “Instalar” – nesta opção o script ira instalar todas as dependências necessárias e junto os softwares requisitados para o servidor web e também a configuração do arquivo de seguração do MariaDB/MySQL “ mysql_secure_installation”.
+- “Check” – onde ele verificara se os software necessários estão instalados, retornando com o valor false(OFF) e true(ON).
+- “Instalar” – nesta opção o script ira instalar todas as dependências necessárias e junto os softwares requisitados para o servidor web e também a configuração do arquivo de seguração do MariaDB/MySQL “ mysql_secure_installation”.
 - “Remover” – Fundamenta para caso tenha alguma aplicação já instalada, está ira remover tudo relacionado ao servidor web para poder fazer uma nova instalação totalmente limpa.
 
 
