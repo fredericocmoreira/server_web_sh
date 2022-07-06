@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #!/usr/bin/expect
 #
-# inst_apache.sh - Instalação do apache
+# instalacao_servidor_web.sh- Instalação do servidor para web
 #
 # Autor:      Frederico Moreira
 # Manutenção: Frederico Moreira
