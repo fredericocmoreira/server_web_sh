@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#!/usr/bin/expect
 #
 # instalacao_servidor_web.sh- Instalação do servidor para web
 #
